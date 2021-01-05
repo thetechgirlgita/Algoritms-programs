@@ -1,0 +1,16 @@
+Step 1: Start
+
+Step 2: Declare "n" as a number.
+
+Step 3: Read n from user.
+
+Step 4: If (n == 0) then 
+   4.1: Print number is zero.
+   
+Step 5 : If (n > 0) then
+   5.1 : Print number is Positive.
+   
+Step 6 : If (n < 0) then
+   6.1 : Print number is negative
+    
+Step 7: Stop
