@@ -1,0 +1,13 @@
+Step 1: Start
+
+Step 2: Declare "var".
+
+Step 3: Read var from user.
+
+Step 4: If (var = "a", "e", "i", "o", "u") then
+Step 4.1: Print alphabet is vowel.
+
+Step 5: Else
+Step 5.1: Print alphabet is constant.
+
+Step 6 : Stop
