@@ -1,0 +1,15 @@
+Step 1 : Start
+
+Step 2 : Declare "year".
+
+Step 3 : Print "Enter the year".
+
+Step 4 : Read  value of "year" from user.
+
+Step 5 : If (year % 400 == 0) or (year % 4 == 0)  then 
+Step 5.1 : Print "This is a leap year"
+
+Step 6 :  Else
+Step 6.1 : Print " This is not a leap year".
+
+Step 7 : Stop
