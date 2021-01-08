@@ -1,0 +1,23 @@
+Step 1: Start.
+
+Step 2: Declare "colour" as string.
+
+Step 3: Print "Enter the colour of the light (R,G,Y) "
+
+Step 4: Read the value of "colour" from user.
+
+Step 5: Use switch-case method for logic.
+
+Step 6: In the case of (colour == "R" or  "r")
+Step 6.1: Print "Stop" and break the case.
+
+Step 7: In the case of (colour == "Y" or  "y")
+Step 7.1: Print "Caution" and break the case.
+
+Step 8: In the  case of (colour == "G" or "g")
+Step 8.1: Print "Go" and break the case.
+
+Step 9: In a default case 
+Step 9.1 : Print "The colour is not valid."
+
+Step 11: Stop 
