@@ -1,0 +1,49 @@
+Step 1: Start
+
+Step 2: Declare "weight", "height", "bmi" and "FEETTOMETER = 0.3048"
+
+Step 3: Print("Enter your weight(in kgs):")
+Step 4: Read value of "weight" from user.
+
+Step 5: Print("Enter your height(in feet)")
+Step 6: Read value of "height" from user.
+
+Step 7: Let height = height * FEETTOMETER
+
+Step 8: And bmi = weight / height^2
+
+Step 9: Print("Your Body Mass Index = bmi")
+
+Step 10: StopStep 1: Start
+
+Step 2: Declare "weight", "height", "bmi" and "FEETTOMETER = 0.3048"
+
+Step 3: Print("Enter your weight(in kgs):")
+Step 4: Read value of "weight" from user.
+
+Step 5: Print("Enter your height(in feet)")
+Step 6: Read value of "height" from user.
+
+Step 7: Let height = height * FEETTOMETER
+
+Step 8: And bmi = weight / height^2
+
+Step 9: Print("Your Body Mass Index = bmi")
+
+Step 10: StopStep 1: Start
+
+Step 2: Declare "weight", "height", "bmi" and "FEETTOMETER = 0.3048"
+
+Step 3: Print("Enter your weight(in kgs):")
+Step 4: Read value of "weight" from user.
+
+Step 5: Print("Enter your height(in feet)")
+Step 6: Read value of "height" from user.
+
+Step 7: Let height = height * FEETTOMETER
+
+Step 8: And bmi = weight / height^2
+
+Step 9: Print("Your Body Mass Index = bmi")
+
+Step 10: Stop
