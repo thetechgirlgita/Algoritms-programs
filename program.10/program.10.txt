@@ -1,0 +1,28 @@
+
+   
+    Step 1: Start
+    
+    Step 2: Declare "year", "month"
+    
+    Step 3: Print("Enter the year : ")
+    Step 4: Read the value of "year" from user.
+    
+    Step 5: Print("Enter the month  of year in digit :)
+    Step 6: Read value of "month" from user.
+    
+    Step 7: Use if-else method for logic.
+    
+    Step 8: If(month == "1", "3", "5", "7", "8","10","12") then
+    Step 9:  Print("Number of days is 31")
+    
+    Step 10: If((year % 400 == 0) and year % 100 != 0)) then
+    Step 11: Print("Number of days is 29")
+    
+    Step 12: If(month == 2) then
+    Step 13: Print("Number of days is 28")
+    
+    Step 14: Else input then
+    Step 15: Print("Number of days is 30");
+    
+    Step 16: Stop  
+    
