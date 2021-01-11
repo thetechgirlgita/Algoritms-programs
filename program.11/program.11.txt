@@ -1,0 +1,18 @@
+Step 1: Start
+
+Step 2: Declare "answer" as string.
+
+Step 3: Print ("Would you like to play? Enter Y or N: ")
+Step 4: Read value of "answer" from user.
+
+Step 5: Use while method as logic
+Step 6: While the input of user (answer == 'y') then
+Step 7: Print ("Sucess!")
+
+Step 8: Print ("Do you want to play again? Y or N: ")
+Step 9: Read value from user.
+
+Step 10: In other case 
+Step 11: Print("GoodBye!") 
+
+Step 12: Stop
