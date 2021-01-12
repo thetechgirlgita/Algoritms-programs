@@ -1,0 +1,19 @@
+Step 1: Start
+
+Step 2: Declare "N" as integer.
+
+Step 3: Store 1 to N
+
+Step 4: Add sum with N
+
+Step 5: Increase N by 2
+
+Step 6: Is N <= 20?
+       if Yes{goto step 3}
+       if No {goto step 6}
+       
+Step 7: Display sum
+
+Step 8: Stop
+
+
