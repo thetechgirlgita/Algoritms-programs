@@ -1,0 +1,11 @@
+Step 1: Start
+
+Step 2: Declare IC and NC.
+
+Step 3: Read IC
+
+Step 4: Multiply IC * 1.60
+
+Step 5: Display NC(Result)
+
+Step 6: Stop
