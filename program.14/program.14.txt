@@ -1,0 +1,13 @@
+Step 1: Start
+
+Step 2: Read(remember) phone number.
+
+Step 3: Lift the receiver of phone
+
+Step 4: Is there dial tone?
+        if Yes, dial the number: go to step 5
+        if No, put down the receiver: go to step 3
+        
+Step 5: Speak
+
+Step 6: Stop
