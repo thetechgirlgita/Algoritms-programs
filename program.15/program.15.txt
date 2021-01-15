@@ -1,0 +1,14 @@
+
+Step 1: Start
+
+Step 2: Declare "principle", "rate", and "time"
+
+Step 3: Read the value of "principle", "rate", and "time" from user.
+
+Step 4: Multiply principle,rate,time.
+
+Step 5: Divide the product by 100 and store it in SI.
+
+Step 6: Print SI 
+
+Step 7: Stop
