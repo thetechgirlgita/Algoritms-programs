@@ -1,0 +1,15 @@
+
+Step 1: Start
+
+Step 2: Go to the cinema hall
+
+Step 3: Is the ticket counter open?
+
+        If it is not open, go to the step 5
+        else go to step 3
+        
+Step 4: Get into the cinema hall
+
+Step 5: Watch the movie
+
+Step 6: Stop
