@@ -1,0 +1,19 @@
+Step 1: Start
+
+Step 2: Read A, B
+
+Step 3: Assign A to X and B to Y
+
+Step 4: Divided A by B
+
+Step 5: Is remainder zero? If yes, go to step 7
+
+Step 6: Assign A to B and B to remainder and go to step 4.
+
+Step 7: Assign B to HCF 
+
+Step 8: Multiply X and Y and divided by HCF. And assign result to LCM
+
+Step 9: Display HCF and LCM 
+
+Step 10: Stop
