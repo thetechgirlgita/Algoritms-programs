@@ -1,0 +1,15 @@
+Step 1: Start 
+
+Step 2: Declare values 'r', 'pi', 'area', and 'circum'.
+
+Step 3: Input r
+
+Step 4: Let pi = 3.14 
+
+Step 5: area = pi * r * r
+
+Step 6: circum = 2 * pi * r
+
+Step 7: print area, circum 
+
+Step 8: stop
