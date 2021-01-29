@@ -1,0 +1,15 @@
+Step 1: Start
+ 
+ Step 2: Read base
+ 
+ Step 3: power = 1
+ 
+ Step 4: For exponent = 1 to 3
+ 
+ Step 5: power = power * base
+ 
+ Step 6: Next
+ 
+ Step 7: Write power
+ 
+ Step 8: Stop
