@@ -1,0 +1,15 @@
+ Step 1: Start
+ 
+ Step 2: Read base
+ 
+ Step 3: Read height
+ 
+ Step 4: If base = height then
+ 
+ Step 4.1 : Print "Square"
+ 
+ Step 5: If base <> height then 
+ 
+ Step 5.1 : Print “rectangle”
+ 
+ Step 6: End 
