@@ -1,0 +1,23 @@
+Step 1: Start
+
+Step 2: Subject = 1
+
+Step 3: Input mark for this subject.
+
+Step 4: Add marks and store into a variable
+
+Step 5: Are all subjects(7 subjects) done?
+     5.1: If No, then increase the number and go to step 3
+     5.2: If Yes, then go to step 6
+     
+Step 6: Print he sum
+
+Step 7: Find average (divide by 7)
+
+Step 8: Print the sum and average
+
+Step 9: Are all (10 students done)?
+Step 9.1: If Yes, then go to step 10
+     9.2: If No, then increase the student number and go  to step 2  
+     
+Step 10: Stop
