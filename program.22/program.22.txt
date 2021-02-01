@@ -1,0 +1,41 @@
+
+	  
+  
+    Step 1: Start
+    
+    Step 2: Declare a and b  as variable
+    
+    Step 3: Print "Enter the  components of coordinates(x) : "
+    
+    Step 4: Store the value in "a"
+    
+    Step 5: Print "Enter the  components of coordinates( y) : "
+    
+    Step 6: Store the value in "b"
+    
+    Step 7: If (a>0 and b>0) then
+    
+    Step 8: Print "First quadrant"
+    
+    Step 9: If (a < 0 and b > 0) then 
+    
+    Step 10: Print "Second Quadrant"
+    
+    Step 11: If (a < 0 and b < 0) then
+    
+    Step 12: Print "Third Quadrant"
+    
+    Step 13: If (a > 0 and b < 0) then
+    
+    Step 14: Print "Fourth Quadrant"
+    
+    Step 15: If (a == 0 and b == 0) then
+    
+    Step 16: Print "Origin"
+    
+    Step 17: If (a, b == special characters or alphabets ) then
+    
+    Step 18: Print "Invalid input"
+    
+    Step 19: Stop
+    
