@@ -1,0 +1,32 @@
+    Step 1: Start
+    
+    Step 2: Declare "Salary", "Food", "Clothes", "Entertainment", "Internet", "Others", "Total", "Saving"
+    
+    Step 3: Print "Your salary" 
+    
+    Step 4: Store in "Salary" variable
+    
+    Step 5: Print " Expenses on food?"
+    
+    Step 6: Store in "Food" variable
+    
+    Step 7: Print " Expenses in cloths"
+    
+    Step 8: Store in "Clothes" variable
+    
+    Step 9: Print "Expenses on entertainments"
+    
+    Step 10: Store in  "Entertainment" variable
+    
+    Step 11: Print " Expenses on others things"
+    
+    Step 12: Store in "Others"
+    
+    Step 13: Add all expenses and store it's value in "Total"
+    
+    Step 14: Subtract "Total" from "Salary" and store the value in "Saving"
+    
+    Step 15: Print the Saving
+    
+    Step 16: Stop
+   
