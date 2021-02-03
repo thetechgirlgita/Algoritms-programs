@@ -1,0 +1,13 @@
+ Step 1: Start
+ 
+ Step 2: Input the binary number.
+ 
+ Step 3: Multiply each digit of the binary number with 2 having power 
+ 
+ Step 4: The power starts from  n-1 to 0 where n is the total number of digits in the binary number.
+ 
+ Step 5: Add each multiplication result.
+ 
+ Step 6: Print the result as decimal number
+ 
+ Step 7: Stop
