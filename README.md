@@ -1,2 +1,2 @@
-Algorithm programs
+100DaysChallenegeOfAlgorithmPrograms
 #100daysofchallenge
