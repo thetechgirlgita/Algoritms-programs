@@ -1,0 +1,15 @@
+ Step 1: Start
+ 
+ Step 2: Declare "dec" as a decimal variable.
+ 
+ Step 3: Input the decimal number.
+ 
+ Step 4:Divide the decimal number by 8.
+ 
+ Step 5: Store the remainder.
+ 
+ Step 6: Repeat steps 3 and 4 until the number can be divided.
+ 
+ Step 7: Print the reverse of the remainder, which is the octal equivalent of the decimal number.
+ 
+ Step 8: Stop
