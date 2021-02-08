@@ -1,0 +1,17 @@
+Step 1: Start
+  
+  Step 2: Declare "Octal" as variable.
+  
+  Step 3: Input the octal number.
+  
+  Step 4: Find the number of digits in the number.
+  
+  Step 5: Let it have n digits.
+  
+  Step 6: Multiply each digit in the number with 8^(n-1), when the digit is in the nth position.
+  
+  Step 7: Add all digits after multiplication.
+  
+  Step 8: Print the Result.
+  
+  Step 9: Stop
