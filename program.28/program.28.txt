@@ -1,0 +1,19 @@
+Step 1: Start
+
+Step 2: Declare a variable "decimal"
+
+Step 3: Input decimal number and store in variable.
+
+Step 4: Divide the decimal number by 16. Treat the division as an integer division.
+
+Step 5: Write down the remainder (in hexadecimal).
+
+Step 6: Divide the result again by 16. Treat the division as an integer division.
+
+Step 7: Repeat step 2 and 3 until result is 0.
+
+Step 8: The hex value is the digit sequence of the remainders from the last to first.
+
+Step 9: Print the result
+
+Step 10: Stop
