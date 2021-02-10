@@ -1,0 +1,23 @@
+Step 1: Start
+ 
+ Step 2: Declare a variable "hex"
+ 
+ Step 3: Input the value of "hex" and store it
+ 
+ Step 4: Get the last digit of the hex number, call this digit the currentDigit.
+ 
+ Step 5: Make a variable, let's call it power.  Set the value to 0.
+ 
+ Step 6: Multiply the current digit with (16^power), store the result.
+ 
+ Step 7: Increment power by 1.
+ 
+ Step 8: Set the the currentDigit to the previous digit of the hex number.
+ 
+ Step 9: Repeat from step 6 until all digits have been multiplied.
+ 
+ Step 10: Sum the result of step 3 to get the answer number.
+ 
+ Step 11: Print the result
+ 
+ Step 12: Stop
