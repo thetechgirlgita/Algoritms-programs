@@ -1,0 +1,21 @@
+ Step 1: Start
+ 
+ Step 2: Declare "hexa-dec" as  a variable.
+ 
+ Step 3: Input the value of  Hexa decimal.
+ 
+ Step 4: Get the last digit of the hexa decimal number, call this digit the currentDigit.
+ 
+ Step 5: Make a variable,"power" 
+ 
+ Step 6: Multiply the current digit with (16^power), store the result.
+ 
+ Step 7: Increment power by 1.
+ 
+ Step 8: Set the the currentDigit to the previous digit of the hexa decimal number.
+ 
+ Step 9: Repeat from step 6 until all digits have been multiplied.
+ 
+ Step 10: Add all multiple and print as result.
+ 
+ Step 11: End
