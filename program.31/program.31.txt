@@ -1,0 +1,23 @@
+Step 1: Start
+
+Step 2: Input the octal number.
+
+Step 3: Count the total number of digits in the given number.
+
+Step 4: Assume that the number has n digits.
+
+Step 5: Multiply each digit in the number with 8^(n-1), when the digit is in the nth position.
+
+Step 6: Perform addition of all the digits after multiplication.
+ 
+Step 7: The added sum gives the decimal equivalent of the octal number.
+ 
+Step 8: Divide the decimal number by 2 and store the remainder in array
+
+Step 9: Divide the quotient by 2
+
+Step 10: Repeat the step 9, until we get quotient equal to zero
+
+Step 11: Print the array in reverse order.
+
+Step 12: Stop
