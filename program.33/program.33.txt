@@ -1,0 +1,17 @@
+ Step 1: Start
+ 
+ Step 2: Declare a variable "pal"
+ 
+ Step 3: Get the input as a number from user.
+ 
+ Step 4: Hold the number in "pal" variable.
+ 
+ Step 5: Reverse the number.
+ 
+ Step 6: Compare the input number with reversed number.
+ 
+ Step 7: If both numbers are same, print palindrome number.
+ 
+ Step 8: Else print not palindrome number.
+ 
+ Step 9: Stop
