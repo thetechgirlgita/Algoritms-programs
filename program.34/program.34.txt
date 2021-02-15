@@ -1,0 +1,25 @@
+Step 1: Start
+
+Step 2: Input the number.
+
+Step 3: Initialize sum = 0 and temp = number.
+
+Step 4: Find the total number of digits in the number.
+
+Step 5: Repeat until (temp != 0)
+
+Step 6: remainder = temp % 10
+
+Step 7: result = resut + pow(remainder,n)
+
+Step 8: temp = temp/10
+
+Step 9: if (result == number)
+
+Step 10: Display "Armstrong"
+
+Step 11: Else
+
+Step 12: Display "Not Armstrong"
+
+Step 13: Stop
