@@ -1,0 +1,19 @@
+ Step 1: Start
+ 
+ Step 2: Input a number (num).
+ 
+ Step 3: Square the number (sqr).
+ 
+ Step 4: Count the number of digits of (num) using while loop (c).
+ 
+ Step 5: Compare the last (c) digits of (sqr) with the (num).
+ 
+ Step 6: If they are equal then
+ 
+ Step 7: Print the number is Automorphic 
+ 
+ Step 8: Else 
+ 
+ Step 9: Print Not Automorphic
+ 
+ Step 10: Stop
