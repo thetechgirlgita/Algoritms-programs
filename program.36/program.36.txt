@@ -1,0 +1,11 @@
+Step 1: Start.
+
+Step 2: Declare and initialize variable, i,num, s = 0.
+
+Step 3: Enter the value of num.
+
+Step 4: Use Loop to add number. Any of while, do-while or for loop can be used.
+
+Step 5: Print the sum.
+
+Step 6: Stop.
