@@ -1,0 +1,22 @@
+Step 1: Start
+
+Step 2: Read number num
+
+Step 3: Initialize
+r=1
+Step 4: Repeat step 4 through 10 until num>=r
+
+Step 5: Initialize
+c=1
+Step 6: Repeat step 6 through 8 until c<=r
+
+Step 7: print */#
+
+Step 8: c=c+1
+[end of loop step6]
+
+Step 9: go to next line
+
+Step 10: r = r + 1
+[end of loop step4]
+Step 11: stop
