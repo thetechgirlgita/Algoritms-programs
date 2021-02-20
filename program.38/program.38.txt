@@ -1,0 +1,23 @@
+
+Step 1: Start
+
+Step 2: Declare and initialize required variables for controlling loop, inputting number of rows and printing numbers.
+
+Step 3: Enter the number of rows to be printed.
+
+Step 4: Print the number in standard format utilizing the application of loop as follows
+
+Step 5: Do for x=1 to n
+
+Step 6: Do for y=1 to n
+
+Step 7: Print number
+
+Step 8: Increase the number ans y by 1
+
+Step 9: Go to next line
+
+Step 10: Print triangle
+
+Step 11 : Stop
+                  
