@@ -1,0 +1,13 @@
+Step 1: Start.
+
+Step 2: Input N, the number for which multiplication table is to be printed.
+
+Step 3: For T = 1 to 10
+
+Step 4: Assign M to save the product of N and T (M = N*T)
+
+Step 5: Print the N * T = M 
+
+Step 6: End for loop
+
+Step 7: Stop
