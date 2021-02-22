@@ -1,0 +1,17 @@
+Step 1 : Start
+
+Step 2 :  Declare sum = 0, i = 0, average, count = 0
+
+Step 3 : i = i + 2
+
+Step 4 : sum = sum + i, count = count + 1
+
+Step 5 : if i <= 50 then go to on step 3, else go to on step 6
+
+Step 6 : Display “sum”
+
+Step 7 : average = sum / count
+
+Step 8 : Display “average”
+
+Step 9 : Stop
