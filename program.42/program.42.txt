@@ -1,0 +1,15 @@
+ Step 1: Start
+ 
+ Step 2: Declare variables and initialize necessary variables
+ 
+ Step 3: Enter the element of matrices by row wise using loops
+ 
+ Step 4: Check the number of rows and column of first and second matrices
+ 
+ Step 5: If number of rows of first matrix is equal to the number of columns of second matrix, go            to step 6. Otherwise, print matrix multiplication is not possible and go to step 3.
+ 
+ Step 6: Multiply the matrices using nested loops.
+ 
+ Step 7: Print the product in matrix form as console output.
+ 
+ Step 8: Stop
