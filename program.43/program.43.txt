@@ -1,0 +1,19 @@
+ Step 1: Start
+ 
+ Step 2: Input matrix 1 and matrix 2.
+ 
+ Step 3: If the number of rows and number of columns of matrix 1 and matrix 2 is equal,
+ 
+ Step 4: for i=1 to rows[matrix 1]
+ 
+ Step 5: for j=1 to columns [matrix 1]
+ 
+ Step 6: Input matrix 1 [i,j]
+ 
+ Step 7: Input matrix 2 [i,j]
+ 
+ Step 8: matrix 3 [i,j]= matrix 1 [i,j]+ matrix 2 [i,j];
+ 
+ Step 9: Display matrix 3 [i,j];
+ 
+ Step 10: Stop
