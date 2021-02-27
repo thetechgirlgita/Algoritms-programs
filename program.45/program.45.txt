@@ -1,0 +1,21 @@
+Step 1: Start
+
+Steo 2: Create a variable to recieve the user's email address
+
+Step 3: Clear the variable in case it's not empty
+
+Step 4: Ask the user for an email address
+
+Step 5: Store the response in the variable
+
+Step 6: Check the stored response to see if it is a valid email address
+
+Step 7: If case is valid
+
+Step 8: Store the email address  in contact list.
+
+Step 9: If Case Not Valid
+
+Step 10: Print "Your email address is not valid"
+
+Step 11: Stop
