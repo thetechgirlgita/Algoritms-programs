@@ -1,0 +1,15 @@
+Step 1: Start
+
+Step 2: Create a variable.
+
+Step 3: Input the number and store it in a  variable.
+
+Step 4: Separate the each numbers and compare them
+
+Step 5: If numbers have difference of 1 between each other then
+
+Step 6: Print "Jumbled number"
+
+Step 7: Else print "Not jumbled"
+
+Step 8: Stop
