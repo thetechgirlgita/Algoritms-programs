@@ -1,0 +1,19 @@
+ Step 1: Start
+ 
+ Step 2: Input the number.
+ 
+ Step 3: Calculate square of the number.
+ 
+ Step 4: Calculate the length of square, that is, the number of digits in square.
+ 
+ Step 5: Iterate over the square and in every iteration, divide the square into two parts.
+ 
+ Step 6: Add both the parts and compare the sum with the original number.
+ 
+ Step 7: If the sum and number are both equal, 
+         then the number is Kaprekar number and terminate the loop.
+ 
+ Step 8: If sum and number do not match, 
+         then repeat steps 4 to 6 till all the digits of square are covered.
+ 
+ Step 9: Stop
