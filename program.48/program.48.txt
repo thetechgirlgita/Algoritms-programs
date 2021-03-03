@@ -1,0 +1,23 @@
+Step 1: Start
+
+Step 2: Create variables "a" for first number, "d" for common difference, "n" for           total number
+
+Step 3: Declare sum = 0 and tn 
+
+Step 4: Take input for "a", "n" and "d" from users and store it.
+
+Step 5: Now assign sum = (n * (2 * a + (n - 1) * d)) / 2
+
+Step 6: Also assign tn = a + (n - 1) * d
+
+Step 7: Now use for loop for processings  (i = a; i <= tn; i = i + d)
+
+Step 8: If i != tn
+
+Step 8.1:  Print the value of i and + 
+        
+     8.2:  Else
+        
+     8.3:  Print i = sum.
+        
+Step 9:  Stop 
