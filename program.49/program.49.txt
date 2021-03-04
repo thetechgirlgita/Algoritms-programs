@@ -1,0 +1,24 @@
+ Step 1: Start
+ 
+ Step 2: Input the number. 
+ 
+ Step 3: Counts the digits present in a number in calculateLength()
+     3.1: Use a while loop to check whether the number is not equal to 0.
+     3.2: Divide the number by 10 and increment the variable length by 1.
+     3.3: Return length.
+     
+ Step 4: Define and initialize variable num.
+ 
+ Step 5: Make a copy of num by storing the value of num in n.
+ 
+ Step 6: Using while loop calculates remainder rem repeatedly by dividing num with 10. 
+ 
+ Step 7: Calculate the value of rem raised to power its position, i.e. remlen and store            the computed value in a variable sum.
+ 
+ Step 8: Check whether sum is equal to number.
+ 
+ Step 9: If yes, then given number is Disarium number.
+ 
+ Step 10: Else, it is not a Disarium number.
+ 
+ Step 11: Stop
