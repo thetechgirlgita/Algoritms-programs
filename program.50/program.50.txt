@@ -1,0 +1,23 @@
+Step 1: Start
+
+Step 2: Take input for first polynomial and second polynomial
+
+Step 3:  while p and q are not null, repeat step 4.
+
+Step 4:  If powers of the two terms are equal then
+
+     4.1: if the terms do not cancel then insert the sum of the terms into the sum Polynomial
+     4.2: Advance p
+     4.3: Advance q
+     4.4: Else if the power of the first polynomial> power of second
+     4.5: Then insert the term from first polynomial into sum polynomial
+     4.6: Advance p
+     4.7: Else insert the term from second polynomial into sum polynomial
+     4.8: Advance q
+     
+Step 5: copy the remaining terms from the non empty polynomial into the
+        sum polynomial.
+        
+Step 6: Stop.
+        
+  #Note :  The fifth step of the algorithm is to be processed till the end of the polynomials                has not been reached. 
