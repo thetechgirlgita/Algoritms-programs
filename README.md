@@ -1,3 +1,3 @@
-100DaysChallenegeOfAlgorithmPrograms
+100DaysChallenegeOfAlgorithms
 #100daysofchallenge
 
