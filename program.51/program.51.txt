@@ -1,0 +1,17 @@
+ Step 1: Start
+ 
+ Step 2: Input the array.
+ 
+ Step 3: Find the midpoint of the sorted array.
+ 
+ Step 4: Compare the midpoint to the value of interest.
+ 
+ Step 5: If the midpoint is larger than the value,
+    5.1: Perform binary search on right half of the array.
+    
+ Step 6: If the midpoint is smaller than the value,
+    6.1: Perform binary search on left half of the array.
+    
+ Step 7: Repeat these steps until the midpoint value is equal to the value of interest or we know          the value is not in the array.
+ 
+ Step 8: Stop
