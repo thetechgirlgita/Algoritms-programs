@@ -1,0 +1,16 @@
+
+Step 1: Start
+
+Step 2: Input five values(digit) in array.
+
+Step 3: Seperate each digits and compare with each other.
+
+Step 4: Starting with the first element(0), compare the current element with the next element of          the array.
+ 
+Step 5: If the current element is greater than the next element of the array, swap them.
+ 
+Step 6: If the current element is less than the next element, move to the next element. Repeat            Step 4.
+
+Step 7: Print sorted array.
+
+Step 8: Stop
