@@ -1,0 +1,16 @@
+
+ Step 1: Start
+ 
+ Step 2: Input the values in  array
+ 
+ Step 3: Divide the array into 2 parts of lengths n/2 and n - n/2 respectively(In the case of odd/even)
+ 
+ Step 4: Two parts of array called Left half array and right half array respectively.
+ 
+ Step 5: Recursively sort the left half array and the right half array.
+ 
+ Step 6: Merge the left half array and right half-array to get the full array sorted.
+ 
+ Step 7: Print "Merged array"
+ 
+ Step 8: Stop
