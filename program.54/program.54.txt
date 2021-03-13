@@ -1,0 +1,15 @@
+Step 1: Start
+
+Step 2: Input the number of elements of the linked list.
+
+Step 3: Input the elements of the linked list in sorted order.
+
+Step 4: Traverse from the head of the sorted linked list.
+
+Step 5: While traversing, compare the current node with the next node.
+
+Step 6: If data of the next node is the same as the current node then delete the next node.
+
+Step 7: Print the remaining sorted array.
+
+Step 8: Stop
