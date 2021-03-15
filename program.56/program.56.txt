@@ -1,0 +1,17 @@
+Step 1:  Start
+
+Step 2:  Input Two Numbers in variables N1,N2 respectively.
+
+Step 3:  Print Before Swap Values N1, N2 
+
+Step 4:  Declare a temporary variable TEMP 
+
+Step 5:  Copy the value of N1 to TEMP
+
+Step 6:  Copy the value of N2 to N1
+
+Step 7:  Copy the value of N1 to N2
+
+Step 8:  Display After Swap Values N1,N2 
+
+Step 9:  Stop
