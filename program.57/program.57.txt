@@ -1,0 +1,17 @@
+Step 1: Start
+
+Step 2: Input the element to delete.
+
+Step 3: Find the given element in the array and note the index.
+
+Step 4: If the element found,
+
+Step 5: Delete or remove that element 
+
+Step 6: Shift all the elements from index + 1 by 1 position to the left.
+
+Step 7: Reduce the array size by 1.
+
+Step 8: Else  print "Element Not Found"
+
+Step 9: Stop 
