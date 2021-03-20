@@ -1,0 +1,17 @@
+Step 1: Start
+
+Step 2: Declare a variable store string
+
+Step 3: Input the string from the user.
+
+Step 4: Initialize vowels = consonants = 0
+
+Step 5: Iterate through the string till the end by using for loop
+
+Step 6: If string[i] = 'a','e','i','u', 'o'  or vowels letters
+
+Step 7: Increament the count by 1
+
+Step 8: Print the value of count.
+
+Step 9: Stop
