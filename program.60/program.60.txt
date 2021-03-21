@@ -1,0 +1,29 @@
+Step 1: Start
+
+Step 2: Declare a variable store string
+
+Step 3: Input the string from the user.
+
+Step 4: Initialize vowels = consonants = Scharacter = digits = 0
+
+Step 5: Iterate through the string till the end by using for loop
+
+Step 6: If string[i] = 'a','e','i','u', 'o'  or vowels letters
+
+Step 7: Increament the countV by 1
+
+Step 8: If string[i] = '1', '2', '3', '4', '5', '6', '7', '8', '9', '0' or digits 
+
+Step 9: Increament the countD by 1
+
+Step 10: If string[i] = '!', '@', '#', '$', '%', '^', '&', '*' or special characters
+
+Step 11: Increament the countS by 1
+
+Step 12: If string[i] != " ", vowel letters, digits, special characters
+
+Step 13: Increament the countC by 1
+
+Step 14: Print "The total Vowels are = countV, Constant = countC, Special character = countS, Digits = countD
+
+Step 15: Stop 
