@@ -1,0 +1,25 @@
+Step 1: Start
+
+Step 2: Declare a variable to store array.
+
+Step 3: Input values in array from user.
+
+Step 4: Consider the first element of the list as pivot 
+         (pivot element is the element which you pick to sort.
+         You can pick random element from array as a pivot).
+         
+Step 5: Define two variables i and j.
+
+Step 6: Set i and j to first and last elements of the list respectively.
+
+Step 7: Increment i until list[i] > pivot then stop.
+
+Step 8: Decrement j until list[j] < pivot then stop.
+
+Step 9: If i < j then exchange list[i] and list[j].
+
+Step 10: Repeat steps 7, 8 & 9 until i > j.
+
+Step 11: Exchange the pivot element with list[j] element.
+
+Step 12: Stop
