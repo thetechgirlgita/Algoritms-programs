@@ -1,0 +1,19 @@
+Step 1: Start
+
+Step 2: Declare two variable i and j
+
+Step 3: Do length (string)-1, to set J at last position
+
+Step 4: Do string [0], to set i on the first character.
+
+Step 5: String [i] is interchanged with string[j]
+ 
+Step 6: Increment i by 1
+
+Step 7: Increment j by 1
+
+Step 8: if i>j then go to step3
+
+Step 9: Print the reversed value
+
+Step 10: Stop
