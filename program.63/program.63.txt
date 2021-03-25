@@ -1,0 +1,21 @@
+Step 1: Start
+
+Step 2: Declare a variable to store an array 'A'.
+
+Step 3: Input the value in array from users.(Let n be the number of values in array)
+
+Step 4: Set i to 1
+
+Step 5: if i > n then go to step 10
+
+Step 6: if A[i] = x then go to step 9 ( let x be the element you searched)
+
+Step 7: Set i to i + 1
+
+Step 8: Go to Step 5
+
+Step 9: Print Element x Found at index i and go to step 11
+
+Step 10: Print element not found
+
+Step 11: Stop
