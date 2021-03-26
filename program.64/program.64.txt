@@ -1,0 +1,21 @@
+Step 1: Start 
+
+Step 2: Declare a variable for store array
+
+Step 3: Take input different values in array  from user.
+
+Step 4: Iterate the input array and find the maximum value present in it.
+
+Step 5: Declare a new array of size max+1 with value 0
+
+Step 6: Count each and every element in the array and increment its value at the corresponding index in the           count array created
+
+Step 7: Store cumulative sum of the elements of the count array. It helps in placing the elements into the             correct index of the sorted array.
+
+Step 8: Find the index of each element of the original array in the count array.
+
+Step 9: After placing each element at its correct position, decrease its count by one
+
+Step 10: Print the array 
+
+Step 11: Stop
