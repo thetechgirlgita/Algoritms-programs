@@ -1,0 +1,21 @@
+Step 1: Start
+
+Step 2: Declare a variable for store array.
+
+Step 3: Input different values in array from user.
+
+Step 4: Declare  h (h is interval of array with initial value 1)
+
+Step 5: Assign h = h * 3 + h 
+
+Step 6: Now, Initialize the value of h 
+
+Step 7: Divide the list into smaller sub-list of equal interval h
+
+Step 8: Sort these sub-lists using insertion sort
+
+Step 9: Repeat until complete list is sorted
+
+Step 10: Print the array
+
+Step 11: Stop
