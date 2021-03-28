@@ -1,0 +1,21 @@
+Step 1: Start
+
+Step 2: Declare a variable for storing string.
+
+Step 3: Input a string from user.
+
+Step 4: Two loops will be used to find the duplicate characters.
+
+Step 5: Outer loop will be used to select a character and initialize variable count by 1.
+
+Step 6: Inner loop will compare the selected character with rest of the characters present in the string.
+
+Step 7: If a match found, it increases the count by 1 
+
+Step 8: Set the duplicates of selected character by '0' to mark them as visited.
+
+Step 9: In inner loop, if count of character is greater than 1, then it has duplicates in the string.
+
+Step 10: Print duplicated strings.
+
+Step 11: Stop
