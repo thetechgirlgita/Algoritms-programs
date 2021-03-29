@@ -1,0 +1,20 @@
+
+Step 1: Start
+
+Step 2: Declare a variable to store string.
+
+Step 3: Input the two strings.
+
+Step 4: Create an array for both the strings.
+
+Step 5: Traverse both the strings and store the count of the alphabets of both strings in respective arrays.
+
+Step 6: Check if both the arrays are equal.
+
+Stwp 7: If both the arrays are equal
+
+Step 8: Print  Strings are anagrams
+
+Step 9: Else, PrintStrings are  not anagrams
+
+Step 10: Stop
