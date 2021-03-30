@@ -1,0 +1,27 @@
+Step 1: Start
+
+Step 2: Declare a variable to store string.
+
+Step 3: Input a string from use.
+
+Step 4: Define a variable flag and set it to true.
+
+Step 5: Convert the string to lowercase to make the comparison case-insensitive.
+
+Step 6: Now, iterate through the string forward and backward.
+
+Step 7: Compare one character at a time till middle of the string is reached.
+
+Step 8: If any of the character doesn't match, 
+
+Step 9: Set the flag to false and break the loop.
+
+Step 10: At the end of the loop, if flag is true, 
+
+Step 11: It Print string is a palindrome.
+
+Step 12: If flag is false, 
+
+Step 13: Print string is not a palindrome.
+
+Step 14: Stop.
