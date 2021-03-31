@@ -1,0 +1,21 @@
+Step 1: Start
+
+Step 2: Declare a variable to store array and a digit.
+
+Step 3: Input the total number of digits(n) and array elements from users(arr[]).
+
+Step 4: Initialize small = large = arr[0]
+
+Step 5: Repeat from i = 2 to n
+
+Step 6: If(arr[i] > large)
+
+Step 7: large = arr[i]
+
+Step 8: If(arr[i] < small)
+
+Step 9: small = arr[i]
+
+Step 10: Print small and large.
+
+Step 11: Stop
