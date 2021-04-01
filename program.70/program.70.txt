@@ -1,0 +1,16 @@
+Step 1: Start
+
+Step 2: Declare and initialize a two-dimensional array a.
+
+Step 3: Calculate the number of rows and columns present in the matrix 
+
+Step 4: Store it in  variables rows and cols respectively.
+
+Step 5: Declare another array t with reversed dimensions i.e t[cols][rows]. Array t will be         used to store the elements of the transposed matrix.
+
+Step 6: Loop through the array a and convert its rows into columns of matrix t using
+        t[ i ][ j ] = a[ j ][ i ];
+
+Step 7:  Print the elements of matrix t.
+
+Step 8: Stop
