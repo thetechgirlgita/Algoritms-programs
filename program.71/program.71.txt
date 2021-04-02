@@ -1,0 +1,17 @@
+Step 1: Start.
+
+Step 2: Declare a vairable to store a string.
+
+Step 3: Input a string from user.
+
+Step 4: Fix a character in the first position and swap the rest of the character with the           first character.
+
+Step 5: Repeat step 4 for the rest of the characters.
+
+Step 6: Now swap again to go back to the previous position.
+
+Step 7: Repeat these steps to get all the permutations.
+
+Step 8: Print the permutation value.
+
+Step 9: Stop.
