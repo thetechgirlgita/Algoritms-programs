@@ -1,0 +1,17 @@
+Step 1: Start
+
+Step 2: Declare a variables to store string and character 'ch'.
+
+Step 3: Input string and characterfrom user.
+
+Step 4: Use for loop and declare i = 0 to length of the string.
+
+Step 5: if str[i] == ch
+
+Step 6: Increase the count by 1. 
+
+Step 7: End the Loop.
+
+Step 8: Print total of Count.
+
+Step 9: Stop
