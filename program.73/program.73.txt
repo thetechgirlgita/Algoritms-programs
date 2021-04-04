@@ -1,0 +1,21 @@
+Step 1: Start
+
+Step 2: Declare a variables to store strings 's1', 's2'.
+
+Step 3: Input the strings from user.
+
+Step 4: First check the length of s1 nd s2 
+
+Step 5: If both are  not equal in length goto step 11.
+
+Step 6: If length is equal then
+
+Step 7: Declare a variable called temp.
+
+Step 8: Store the concatenation of s1 with s1 itself in variable temp.
+
+Step 9: If s2 is a substring of temp then
+
+Step 10: Print s1 and s2 are rotations of each other
+
+Step 11: Stop 
