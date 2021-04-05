@@ -1,0 +1,22 @@
+Step 1: Start
+
+Step 2: Declare a variable to  store a list.
+
+Step 3: Take input from user.
+
+Step 4: Create 3 nodes, curr, Prev and next.
+
+Step 5: Initialize them as curr = head, next = null, prev = null
+
+Step 6: Now keep reversing the pointers one by one till curr != null
+
+Step 7: During this process (curr != null) nodes will assign as 
+
+   7.1: next = curr.next
+   7.2: curr.next = prev
+   7.3: prev = curr
+   7.4: curr = next
+   
+Step 8: Print the reversed list.
+
+Step 9: Stop
