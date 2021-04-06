@@ -1,0 +1,19 @@
+Step 1: Start
+
+Step 2: Declare a variable to store list
+
+Step 3: Take input from user
+
+Step 4: Assign Head Points to the First Node of The List.
+
+Step 5: Initialize the count variable with value 0
+
+Step 6: Initialize the temp variable with Head
+
+Step 7: As we access each Node, the value of count variable is increased by 1
+
+Step 8: Stop the process when we reach null.
+
+Step 9: Print the total value of count
+
+Step 10: Stop
