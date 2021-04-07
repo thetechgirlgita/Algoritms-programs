@@ -1,0 +1,21 @@
+Step 1: Start
+
+Step 2: Declare a variable to store a list.
+
+Step 3: Take input from user.
+
+Step 4: Create a pointer p , pointing to the head
+
+Step 5: Iterate over the linked list until p reaches to the end of the linked list
+
+Step 6: Find the length of the list.
+
+Step 7: Set p to head again.
+
+Step 8: Increment p length/2 times.
+
+Step 9: The p is at the middle of the linked list node. 
+
+Step 10: Print the value of p as a middle node
+
+Step 11: Stop
