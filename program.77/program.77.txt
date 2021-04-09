@@ -1,0 +1,23 @@
+Step 1: Start
+
+Step 2: Declare a variable to store a array.
+
+Step 3: Input the array elements.
+
+Step 4: Declare variables max, max_so_far.
+
+Step 5: If arr[0] > 0, max = arr[i] 
+
+Step 6: Initialize max_so_far = arr[i].
+
+Step 7: Repeat from i = 1 to end of the array.
+
+Step 8: Multiply max with the next array element 
+
+Step 9: If it is positive and update max = max_so_far.
+
+Step 10: Else,skip the array element and move to the next array element.
+
+Step 11: Print the value.
+
+Step 12: Stop
