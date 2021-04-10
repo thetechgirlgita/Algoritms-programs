@@ -1,0 +1,25 @@
+Step 1: Start
+
+Step 2: Declare a variable to store elements in array
+
+Step 3: Input the elements.
+
+Step 4: Initialize left_sum = 0
+
+Step 5: Find the sum of the array as sum.
+
+Step 6: For i = 1 to end of the array
+
+Step 7: Update sum to get the right sum.
+
+Step 8: sum = sum - arr[i] // sum is the right sum.
+
+Step 9: Update left_sum = left_sum + arr[i]
+
+Step 10: If left_sum == sum,
+
+Step 11: Print current index as a Equilibrium index.
+
+Step 12: Else, Print Equilibrium index is not found.
+
+Step 13: Stop
