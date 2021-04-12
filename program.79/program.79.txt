@@ -1,0 +1,15 @@
+Step 1: Start
+
+Step 2: Declare an variable for store array.
+
+Step 3: Input elements from user.
+
+Step 4: Traverse through the array from start to end.
+
+Step 5: For every element,Find the count of elements smaller than the current number up to         that index using another loop.
+
+Step 6: Sum up the count of inversion for every index.
+
+Step 7: Print the count of inversions.
+
+Step 8: Stop
