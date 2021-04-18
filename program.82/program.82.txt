@@ -1,0 +1,21 @@
+Step 1: Start
+
+Step 2: Declare a variable to store array
+
+Step 3: Input the elements of array from user
+
+Step 4: Initialize a variable count with a value equal to zero
+
+Step 5: Traverse through the array till the end 
+
+Step 6: Check each element whether it is equal to zero or not
+
+Step 7: If the a[i] != 0, put the element at the count position of the array
+
+Step 8: Increase the value of count by 1
+
+Step 9: At last, fill the remaining positions of the array with 0
+
+Step 10: Display the result
+
+Step 11: Stop 
