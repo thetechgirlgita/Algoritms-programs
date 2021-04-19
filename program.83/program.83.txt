@@ -1,0 +1,31 @@
+Step 1: Start
+
+Step 2: Declare a variable to store an string
+
+Step 3: Take input  from user
+
+Step 4: Declare an array freq with the same size as that of string. 
+
+Step 5: Declare variable minChar and maxChar and initialized them to first character present in the string.
+
+Step 6: Assign outer loop to select a character and initialize  corresponding index in freq with 1.
+
+Step 7: Assign Inner loop to compare the selected character with rest of characters
+
+Step 8: If a match found, then increment the freq[i] by 1.
+
+Step 9: Declare variable min and max  to store the count of minimum and  maximum occurring character.
+
+Step 10: Loop through the array freq and compare count of each character stored in freq with min and max.
+
+Step 11: If count stored in freq is less than value of min
+
+Step 12: Store that count in min and corresponding character in minChar.
+
+Step 13: If count stored in freq is more than value of max, 
+
+Step 14: Store that count in max and corresponding character in maxChar.
+
+Step 15: Display minChar as minimum occurring character and maxChar as 	 maximum occurring character.
+
+Step 16: Stop
