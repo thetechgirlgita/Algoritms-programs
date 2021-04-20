@@ -1,0 +1,21 @@
+Step 1: Start
+
+Step 2: Declare a variable to store array list.
+
+Step 3: Take input from user.
+
+Step 4: Start searching data from middle of the list.
+
+Step 5: If it is a match, return the index of the item.
+
+Step 6: If it is not a match, its a probe position.
+
+Step 7: Divide the list using probing formula and find the new midle.
+
+Step 8: If data is greater than middle, search in higher sub-list.
+
+Step 9: If data is smaller than middle, search in lower sub-list.
+
+Step 10: Repeat until match.
+
+Step 11: Stop
