@@ -1,5 +1,5 @@
 100DaysChallenegeOfAlgorithms
-100daysofchallenge
+By Gita Khanal
 
 
 
