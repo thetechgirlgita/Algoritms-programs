@@ -1,0 +1,21 @@
+Step 1: Start
+
+Step 2: Declare a variable to store a Array.
+
+Step 3: Input the elements in array from user.
+
+Step 4: Initialize and declare a variable sum to 0.
+
+Step 5: Traverse the array, while i < n (length of the array).
+
+Step 6: Add sum to arr[i] and store it to sum.
+
+Step 7: If sum == 0 ( Total sum is equal to 0) then
+
+Step 8: Print given sub array's sum is 0 .
+
+Step 9: If sum != 0 (Have any other value except 0) then
+
+Step 10: Print the total sum.
+
+Step 11: Stop
