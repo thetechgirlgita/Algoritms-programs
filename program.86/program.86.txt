@@ -1,0 +1,21 @@
+Step 1: Start
+
+Step 2: Create a 1D array lis[] of size N.
+
+Step 3: Take input from user
+
+Step 4: Iterate for each element from index 1 to N-1.
+
+Step 5: Iterate elements with indexes lesser than current element in a nested loop
+
+Step 6: In the nested loop, if the element’s value is less than the current element
+
+Step 7: Assign lis[i] with (lis[j]+1) 
+
+Step 8: If (lis[j]+1) is greater than lis[i].
+
+Step 9: Traverse the entire lis[] array to extract the maximum element.
+
+Step 10: Display the total number of extract element.
+
+Step 11: Stop 
