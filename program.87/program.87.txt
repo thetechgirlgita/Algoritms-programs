@@ -1,0 +1,21 @@
+Step 1: Start
+
+Step 2: Declare an variable to store array.
+
+Step 3: Input the array elements from user.
+
+Step 4: Start traversing the array till the end.
+
+Step 5: If the current element is positive,
+
+Step 6: Traverse to the next element in the array.
+
+Step 7: If the current element is negative,
+
+Step 8: Right shift the positive elements by one position.
+
+Step 9: Insert the negative number in the sequence array[0 to n-1].
+
+Step 10: Print the rearranged array.
+
+Step 11: Stop
