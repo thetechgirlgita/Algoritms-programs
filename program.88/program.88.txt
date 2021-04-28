@@ -1,0 +1,21 @@
+Step 1: Start.
+
+Step 2: Declare a variables to store array.
+
+Step 3: Input the elements in array.
+
+Step 4: Declare and Initialize max_so_far = 0.
+
+Step 5: Declare and Initialize max_ending_here = 0.
+
+Step 6: Initialize If loop for below steps 7 to 9 for each element of the array.
+
+Step 7: Set max_ending_here = max_ending_here + a[i].
+
+Step 8: If(max_ending_here < 0) then set max_ending_here = 0.
+
+Step 9: If(max_so_far < max_ending_here) then set max_so_far = max_ending_here.
+
+Step 10: Print the value of  max_so_far.
+
+Step 11: Stop.
