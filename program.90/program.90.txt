@@ -1,8 +1,8 @@
-Step 1: Start
+Step 1: Start.
 
-Step 2: Create a new node at the end of heap.
+Step 2: Remove root node.
 
-Step 3: Assign new value to the node.
+Step 3: Move the last element of last level to root.
 
 Step 4: Compare the value of this child node with its parent.
 
@@ -13,4 +13,3 @@ Step 6: Repeat step 4 & 5 until Heap property holds.
 Step 7: Display the result.
 
 Step 8: Stop.
-
