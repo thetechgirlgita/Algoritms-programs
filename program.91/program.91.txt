@@ -1,0 +1,21 @@
+Step 1: Start
+
+Step 2: Declare a variable to store array.
+
+Step 3: Input the element in array.
+
+Step 4: Convert the given array of elements into a binary tree.
+
+Step 5: Ensure that the tree is a max heap.
+
+Step 6: Check every non-leaf node contains <= value element than its child nodes.
+
+Step 7: If there exists any node that does not satisfy the ordering property of max heap,
+
+Step 8: Swap the elements.
+
+Step 9: Start checking from a non-leaf node with the highest index.
+
+Step 10: Display the result.
+
+Step 11: Stop
