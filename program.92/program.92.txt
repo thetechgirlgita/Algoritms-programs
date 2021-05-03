@@ -1,0 +1,27 @@
+Step 1: Start.
+
+Step 2: Calculate the number of nodes (count) in the binary tree.
+
+Step 3: Start recursion of the binary tree from the root node.
+
+Step 4: Index (i) being set as 0 and the number of nodes in the binary (count).
+
+Step 5: If the current node is NULL then,
+
+Step 6: The tree is a complete binary tree. 
+
+Step 7: Print the given binary tree is complete tree.
+
+Step 8: If index (i) of the current node is <= the number of nodes (count) then.
+
+Step 9: The tree is not a complete binary. 
+
+Step 10: Print the given binary tree is not complete.
+
+Step 11: Recursively check the left and right sub-trees of the binary tree for same condition.
+
+Step 12: For the left sub-tree use the index as (2*i + 1).
+
+Step 13: For the right sub-tree use the index as (2*i + 2).
+
+Step 14: Stop.
