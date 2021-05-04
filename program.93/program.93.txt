@@ -1,0 +1,27 @@
+Step 1: Start.
+
+Step 2: Declare a variable to store an array.
+
+Step 3: Input the elements in array.
+
+Step 4: Convert the array into binary tree.
+
+Step 5: If tree is empty then height of tree is 0.
+
+Step 6: else Start from the root and ,
+
+Step 7: Find the maximum depth of left sub-tree recursively.
+
+Step 8: Find the maximum depth of right sub-tree recursively.
+
+Step 9: Compare the depth of (left and right subtree) .
+
+Step 10: If left subtree is greater then right subtree then.
+
+Step 11: Print the value of left subtree as the height of Tree.
+
+Step 12: If right subtree is greater then left subtree then.
+
+Step 13: Print the value of right subtree as the height of Tree.
+
+Step 14: Stop.
