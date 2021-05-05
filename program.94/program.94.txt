@@ -1,0 +1,25 @@
+Step 1: Start.
+
+Step 2: Declare a variable to store an array.
+
+Step 3: Input the elements in array.
+
+Step 4: Convert the array into binary tree.
+
+Step 5: Check if the root node is NUll, and if it is so, the output will be 0.
+
+Step 6: Calculate the height of the left subtree.
+
+Step 7: Calculate height of the right subtree.
+
+Step 8: If the diameter of the tree passes through the root node,then
+
+Step 9: Diamter = Height in Step (6) + Height in Step (7) + 1.
+
+Step 10: Diameter of the tree considering only the left subtree of the current root node is calculated.
+
+Step 11: Diamter of the tree considering only right subtree of the current root node is calculated.
+
+Step 12: The maximum of the values in Step (9), Step (10), Step (11) is given as output.
+
+Step 13: Stop.
