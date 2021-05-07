@@ -1,0 +1,17 @@
+Step 1: Start.
+
+Step 2: Declare a variable to store an array.
+
+Step 3: Input elements in array.
+
+Step 4: Convert it in binary tree.
+
+Step 5: Starting at root, find the deepest and rightmost node in binary           tree and node which we want to delete.
+
+Step 6: Replace the deepest rightmost node's data with node to be deleted
+
+Step 7: Then delete the deepest rightmost node. 
+
+Step 8: Display the remain result.
+
+Step 9: Stop
