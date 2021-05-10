@@ -1,5 +1,5 @@
-100DaysChallenegeOfAlgorithms
-By Gita Khanal
+##100DaysChallenegeOfAlgorithms
+#By Gita Khanal
 Follow for more codes.
 @thetechgirlgita
 
