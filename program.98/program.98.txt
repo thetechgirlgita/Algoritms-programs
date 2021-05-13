@@ -1,0 +1,19 @@
+Step 1: Start.
+
+Step 2: Declare a variable to store an array.
+
+Step 3: Input the elements in array.
+
+Step 4: Convert it into binary tree.
+
+// Until all nodes are traversed //
+
+Step 5: Recursively traverse left subtree.
+
+Step 6: Recursively traverse right subtree.
+
+Step 7: Visit root node.
+
+Step 8: Print the result.
+
+Step 9: Stop.
