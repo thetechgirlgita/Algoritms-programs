@@ -1,0 +1,23 @@
+Step 1: Start.
+
+Step 2: Declare a variable to store an array.
+
+Step 3: Input the elements in array.
+
+Step 4: Convert it into binary tree.
+
+Step 5: Create an empty stack s and push root to it.
+
+        while stack is not NULL Do following:-
+
+Step 6: Create a empty stack called tempStack.
+
+Step 7: Pop a node from stack and push it to tempStack depending on directionFlag
+
+Step 8: Change directionFlag to change the direction of traversal.
+
+Step 9: Set stack = tempStack
+
+Step 10: Print the result.
+
+Step 11: Stop.
