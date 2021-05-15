@@ -1,0 +1,30 @@
+Step 1: Start
+
+Step 2: Declare a variables to store Rate(R), Principle(P), Time(T), SI and CI
+
+Step 3: Take input from user.
+
+Step 4: If T < 0 then (T should be in Years)
+        Print "Invalid input".
+        Else Print "Valid input"
+        
+Step 5: If R < 1 then
+        Print "Invalid value"
+        Else Print "Valid value"
+        
+Step 6: If P < 0  then
+        Print "Invalid input"
+        Else Print "Valid input"
+        
+Step 7: Calculating SI = (P*T*R)/100 AND CI = (P*(1+(R/100))^T)-P
+
+Step 8: Print the value of CI and SI 
+
+Step 9: Display the Subratction value of CI-SI
+
+Step 10: Print "Do you want to repeat the program?"
+		 If: Yes then Goto step 1
+         Else: Goto step 11
+         
+Step 11: Stop
+         
